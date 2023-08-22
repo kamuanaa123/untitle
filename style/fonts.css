@@ -1,0 +1,18 @@
+@font-face {
+    font-family:'IR';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Inter-Regular.ttf);
+}
+@font-face {
+    font-family:'RR';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family:'SR';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/SpaceGrotesk-Regular.ttf);
+}
